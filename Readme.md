@@ -24,5 +24,5 @@ load 'shopify_api/graphql/task.rake'
 
 Your project should look like this:
 
-![Your Project]
+![Your Project](https://github.com/FLWallace99/grahpql_metafields/blob/master/images/your_project.png)
 
