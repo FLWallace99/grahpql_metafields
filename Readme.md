@@ -2,8 +2,8 @@
 
 - [x] Sample framework set up, code will work
 - [ ] Detailed instructions on how to run this including dumping Shopify Schema
-- [ ] Example code of saving metafield to database with matching product_id
-- [ ] Sample .env file for easy set up
+- [x] Example code of saving metafield to database with matching product_id
+- [x] Sample .env file for easy set up
 
 ### Notes 
 You must run the job to set up the schema locally otherwise no calls to GraphQL will run. Please note that HEREDOC interpolation will NOT run in setting up the call for the query if the HEREDOC is enclosed in quotes. The initial HEREDOC has quotes and nothing put in there will be interpolated. The subsequent example does NOT HAVE QUOTES (look at it carefully) so your standard ruby interpolation #{my_variable} will work.

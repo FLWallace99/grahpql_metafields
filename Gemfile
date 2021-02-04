@@ -6,4 +6,4 @@ gem 'activerecord'
 gem 'activerecord-import', '~> 1.0', '>= 1.0.4'
 gem 'activesupport'
 gem 'sinatra-activerecord'
-
+gem 'pg'

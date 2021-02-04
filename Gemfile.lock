@@ -34,6 +34,7 @@ GEM
     minitest (5.14.3)
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
+    pg (1.2.3)
     rack (2.2.3)
     rack-protection (2.1.0)
       rack
@@ -63,6 +64,7 @@ DEPENDENCIES
   activerecord-import (~> 1.0, >= 1.0.4)
   activesupport
   dotenv
+  pg
   shopify_api
   sinatra-activerecord
 

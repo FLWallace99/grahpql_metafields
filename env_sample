@@ -1,0 +1,5 @@
+yourshopname_shop_name=yourshopname
+yourshopname_api_key='key'
+yourshopname_password='password'
+yourshopname_api_secret=secret
+DATABASE_URL = 'postgres://username:password@localhost:5432/dbname'

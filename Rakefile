@@ -1,9 +1,9 @@
 require 'dotenv'
+Dotenv.load
 require 'active_record'
 require 'shopify_api'
 require 'sinatra/activerecord/rake'
 require 'activerecord-import'
-Dotenv.load
 
 require_relative 'product_metafields'
 
